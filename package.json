@@ -81,7 +81,7 @@
     "@testing-library/user-event": "^12.1.0",
     "@types/jest": "^26.0.8",
     "clarify": "^2.1.0",
-    "eslint": "^7.16.0",
+    "eslint": "^7.30.0",
     "eslint-config-prettier": "^7.1.0",
     "eslint-config-standard": "^16.0.2",
     "eslint-plugin-import": "^2.20.0",
